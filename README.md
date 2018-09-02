@@ -1,4 +1,4 @@
-# Tumblr# Lab 1 - *Name of App Here*
+# Tumblr# Lab 1
 
 **Name of your app** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
